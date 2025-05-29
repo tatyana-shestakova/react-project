@@ -1,0 +1,19 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatyana-shestakova/react-project.git"
+  },
+  "author": "tatyana-shestakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatyana-shestakova/react-project/issues"
+  },
+  "homepage": "https://github.com/tatyana-shestakova/react-project#readme",
+  "description": ""
+}
